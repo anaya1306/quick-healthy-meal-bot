@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Quick Healthy Meal Bot 🥗
 
 A React-based application that suggests quick and healthy meal ideas based on time constraints and dietary preferences.
@@ -51,3 +52,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+=======
+# quick-healthy-meal-bot
+>>>>>>> b9578d1a86d6f23b030b8db63ae7dead68d7d240
